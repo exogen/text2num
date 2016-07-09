@@ -1,0 +1,4 @@
+[nosetests]
+with-doctest=1
+doctest-options=+NORMALIZE_WHITESPACE,+IGNORE_EXCEPTION_DETAIL
+rednose=1
